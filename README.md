@@ -15,6 +15,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vraghava-ps&layout=compact&theme=dark&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vraghava-ps&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
