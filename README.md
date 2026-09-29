@@ -24,8 +24,6 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vraghava-ps&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vraghava-ps&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vraghava-ps&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vraghava-ps&theme=dark&hide_border=true) 
 
 ---
